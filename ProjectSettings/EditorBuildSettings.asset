@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GeneratePoints.unity
+    guid: 4a949307bb7a8694e913a655c5e8220d
   m_configObjects: {}
